@@ -10,4 +10,5 @@ The tool is an interactive HTML5/JavaScript canvas with tissue selection, guided
 
 Viewers learn that ion transport is spatially organized, not uniform. Liver shows zonated hepatocytes; pancreas reveals a CFTR-high ductal tree against acinar tissue; intestine shows a crypt-to-surface axis, with DRA/SLC26A3-high surface colonocytes opposite the crypt base. Streamlines trace where the expression rises (a gradient, not flux). The GeoMx arm applies the same screen to the whole transcriptome, recovering 46 ion genes versus a dozen on targeted panels, confirming a periportal-to-pericentral gradient (trend p=0.003).
 
-**This project was submitted for the CFDE Training Center's Data Visualization Competition 2026.**
+**This project was submitted by Supriya Bidanta for the CFDE Training Center's Data Visualization Competition 2026.**
+
